@@ -23,4 +23,4 @@ media = nota_total / 8
 if media  >= 70:
     print("Parabéns, você passou!Sua média é ", media)
 else: 
-    print("Burro do caralho! Sua média é ", media)
+    print("Que triste! Sua média é: ", media)
