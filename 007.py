@@ -33,7 +33,7 @@ def main ():
         print(f"{segundos:,.0f} segundos")
 
     except ValueError:
-        print("Erro, por favor insira um número válido, seu merda!")
+        print("Erro, por favor insira um número válido, humano!")
 
 if __name__ == "__main__":
     main()
