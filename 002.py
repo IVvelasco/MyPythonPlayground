@@ -4,7 +4,7 @@
 # -- Concatenação --
 # ------------------
 
-name = input("Your fucking first name: ")
-lastname = input("Your fucking last name: ")
+name = input("Your beautiful first name: ")
+lastname = input("Your beautiful last name: ")
 
 print(name + " " + lastname)
