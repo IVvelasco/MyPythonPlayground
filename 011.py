@@ -7,8 +7,8 @@
 import random 
 """
 Mini Game baseado naquelas brincadeiras de escola tipo quantos filhos você terá, com quem vai casar e etc etc.
-
 """
+
 idade = random.randint(18,100)
 print(f"Idade que você se casou: {idade}")
 
