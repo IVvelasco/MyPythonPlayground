@@ -17,12 +17,12 @@ Curiosos: Acompanhe este experimento único
 
 📁 Estrutura do Projeto
 
-  MyPythonPlayground/
-  ├── codigo_000.py
-  ├── codigo_001.py
-  ├── codigo_002.py
-  ├── ...
-  ├── codigo_999.py (meta final)
-  └── README.md
+    MyPythonPlayground/
+    ├── codigo_000.py
+    ├── codigo_001.py
+    ├── codigo_002.py
+    ├── ...
+    ├── codigo_999.py (meta final)
+    └── README.md
 
 <h6> Abandonai toda esperança, Vós que aqui entrais </h6>
