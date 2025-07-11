@@ -1,4 +1,4 @@
-🐍<h1>My Python Playground</h1>
+<h1>My Python Playground🐍</h1>
 
 Um experimento prático com Python e VS Code no ambiente Flatpak
 
