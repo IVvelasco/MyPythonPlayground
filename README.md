@@ -15,12 +15,6 @@ Iniciantes em Python: Busque inspiração e exemplos práticos
 Usuários de Linux/Flatpak: Veja como diferentes códigos se comportam no ambiente
 Curiosos: Acompanhe este experimento único
 
-
-
-Iniciantes em Python: Busque inspiração e exemplos práticos
-Usuários de Linux/Flatpak: Veja como diferentes códigos se comportam no ambiente
-Curiosos: Acompanhe este experimento único
-
 <h3>📁 Estrutura do Projeto</h3>
 
     MyPythonPlayground/
