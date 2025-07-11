@@ -2,7 +2,7 @@
 
 Um experimento prático com Python e VS Code no ambiente Flatpak
 
-📋 Sobre o Projeto
+<h3>📋 Sobre o Projeto</h3>
 
 Estou usando um Sistema Operacional que baixa aplicativos (como o VS Code) através do Flathub (Ou seja... Formato Flatpak). No momento em que abri o VS Code me apareceu um arquivo .txt dizendo que essa aplicação está rolando dentro de um contâiner e que algumas coisas poderiam não funcionar como esperado...
 
@@ -15,7 +15,7 @@ Iniciantes em Python: Busque inspiração e exemplos práticos
 Usuários de Linux/Flatpak: Veja como diferentes códigos se comportam no ambiente
 Curiosos: Acompanhe este experimento único
 
-📁 Estrutura do Projeto
+<h3>📁 Estrutura do Projeto</h3>
 
     MyPythonPlayground/
     ├── codigo_000.py
