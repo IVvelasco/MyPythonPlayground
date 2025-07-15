@@ -13,7 +13,7 @@ BOLETIM CLIMATOLÓGICO
 BALANÇO DO MÊS DE JANEIRO DE 2025 PARA PORTO ALEGRE.
 """
 
-# CORREÇÃO 1: Usar parênteses () ao invés de colchetes [] para np.array
+# DADOS
 temp_max = np.array([31, 32, 30, 29, 30, 31, 32, 30, 29, 30, 31, 33, 35, 35, 34, 33, 35, 34, 35, 34, 33, 34, 34, 33, 32, 30, 31, 32, 33, 32, 31])
 temp_min = np.array([23, 22, 21, 20, 19, 18, 17, 19, 20, 19, 20, 21, 22, 23, 22, 21, 22, 21, 20, 21, 22, 21, 20, 19, 20, 21, 22, 21, 22, 21, 21])
 
