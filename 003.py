@@ -1,7 +1,7 @@
 # Level 003 
 
 # --------------------------
-# -- Concatenação VS Soma --
+# -- CONCATENAÇÂO vs SOMA --
 # --------------------------
 
 num1 = input("Digite o primeiro número: ")
