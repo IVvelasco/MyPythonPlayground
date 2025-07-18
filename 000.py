@@ -1,7 +1,7 @@
 # Level 000
 
 # -------------------
-# -- Saída na Tela --
+# -- SAÍDA NA TELA --
 # -------------------
 
-print("Hello, stupid!")
+print("Hello, human!")
