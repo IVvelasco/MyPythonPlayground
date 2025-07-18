@@ -1,7 +1,7 @@
 # Level 002 
 
 # ------------------
-# -- Concatenação --
+# -- CONCATENAÇÂO --
 # ------------------
 
 name = input("Your beautiful first name: ")
