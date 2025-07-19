@@ -4,7 +4,7 @@
 #  -- CRIPTOGRAFIA COM RANDOM --
 #  -----------------------------
 
-#Tentativa de um código que traduz alfabeto para binário
+
 
 import random 
 
