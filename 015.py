@@ -1,7 +1,9 @@
 # Level 015
 # ------------------------------------------------
-# -- Moda, Média e Mediana usando NUMPY e SCIPY --
+# -- MODA, MÉDIA E MEDIANA USANDO NUMPY e SCIPY --
 # ------------------------------------------------
+
+# E de bônus ainda vamos calcular o DESVIO PADRÃO
 
 import numpy as np
 from scipy import stats
