@@ -4,7 +4,6 @@
 # -- CONVERSOR --
 # ---------------
 
-
 def converter_dias(dias):
     """
     Converte dias em horas, minutos e segundos
