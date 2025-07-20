@@ -1,8 +1,8 @@
 # Level 016
 
-#  --------------------------------
-#  -- OPERADORES LÓGICOS + INPUT --
-#  --------------------------------
+#  -----------------
+#  -- CALCULADORA --
+#  -----------------
 
 num1 = float(input("Insira aqui o primeiro número: "))
 num2 = float(input("Insira aqui o segundo número: "))
