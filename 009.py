@@ -1,7 +1,7 @@
 # Level 009 
 
 # --------------------------------
-# -- Usando escolhas aleatórias --
+# -- USANDO ESCOLHAS ALEATÓRIAS --
 # --------------------------------
 
 import random
