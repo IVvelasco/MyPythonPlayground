@@ -7,6 +7,7 @@
 # Tá em dúvida do que fazer? Jogue essa "moeda" virtual e descubra
 
 import random
+
 def main():
 
     moeda = ["Cara", "Coroa"]
