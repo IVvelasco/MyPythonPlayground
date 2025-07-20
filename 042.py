@@ -12,4 +12,4 @@ love = True
 while love == True:
     print(f"{name}: Kisses")
 else:
-    print("run")
+    print("Run")
