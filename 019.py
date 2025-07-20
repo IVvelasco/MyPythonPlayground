@@ -1,8 +1,8 @@
 # Level 010
 
-# ----------------
-# -- Calculator --
-# ----------------
+# ----------------------------
+# -- CALCULADORA INTERATIVA --
+# ----------------------------
 
 print("Coloque dois números e escolha um dos operadores básicos: ")
 print("(+) --> Adição") 
