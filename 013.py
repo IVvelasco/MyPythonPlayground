@@ -14,3 +14,5 @@ print(f"Tabuada do 7: {list(range(0, 77, 7))}")
 print(f"Tabuada do 8: {list(range(0, 88, 8))}")
 print(f"Tabuada do 9: {list(range(0, 99, 9))}")
 print(f"Tabuada do 10: {list(range(0, 110, 10))}")
+
+=
