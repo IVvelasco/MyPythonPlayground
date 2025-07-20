@@ -11,6 +11,6 @@ if resposta == 'Sim':
 elif resposta == 'SIM':
     print("Vá beber água")
 elif resposta == 'sim':
-    print("Vá beber água")
+    print("Vá beber água!")
 else: 
     print("Ainda bem!")
