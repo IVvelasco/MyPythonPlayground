@@ -4,6 +4,8 @@
 # -- FAIXA ETÁRIA COM IF-ELIF-ELSE --
 # -----------------------------------
 
+# TODOS OS VALORES AQUI CITADOS FORAM RETIRADOS DIRETAMENTE DE FONTES OFICIAIS 
+
 idade = int(input("Por favor, insira a sua idade (Utilize apenas números inteiros): "))
 
 if idade <= 12:
