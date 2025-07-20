@@ -1,7 +1,7 @@
 # Level 014
-# ---------------------------
-# -- Moda, Média e Mediana --
-# ---------------------------
+# ----------------------------
+# -- MÉDIA E DESVIO PADRÃO --
+# ----------------------------
 import numpy as np
 """
 DADOS CLIMÁTICOS RETIRADOS DIRETAMENTE DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO - MAPA
