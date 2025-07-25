@@ -42,6 +42,7 @@ print("-------------------------------------------------------------------------
 
 
 """ ABSTRAÇÕES FEITAS APÓS CONVERSAR COM UMA ENFERMEIRA 
+
 -->  Nome completodo paciente OK 
 -->  Documento (tipo cartão do SUS ou CPF ) OK 
 -->  Número de telefone OK
