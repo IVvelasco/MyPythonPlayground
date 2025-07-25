@@ -1,7 +1,7 @@
 # Level 022
 
 # ------------------------------
-# -- Interação com o usuáriro --
+# -- INTERAÇÃO COM O USUÁRIO --
 # ------------------------------
 
 nome = input("Insira aqui seu nome: ")
