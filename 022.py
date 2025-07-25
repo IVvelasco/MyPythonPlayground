@@ -1,7 +1,7 @@
 # Level 022
 
 # ---------------------------------------
-# -- Fillmes: Classificação Indicativa --
+# -- FILMES: CLASSIFICAÇÃO INDICATIVA --
 # ---------------------------------------
 
 idade = int(input("Por favor, insira a sua idade(Utilize apenas números inteiros) e descubra sua classificação indicativa: "))
