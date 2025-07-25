@@ -1,8 +1,8 @@
 
-# Level 027
+# Level 026
 
 #  -----------------------
-#  -- Letra em Binário  --
+#  -- LETRA EM BINÁRIO  --
 #  -----------------------
 
 #Tentativa de um código que traduz alfabeto para binário
