@@ -1,7 +1,7 @@
 # Level 024
 
 # ---------------------------
-# -- Brincando com Strings --
+# -- REVERTENDO O ALFABETO --
 # ---------------------------
 
 frase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
