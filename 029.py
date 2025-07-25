@@ -1,4 +1,4 @@
-# Level 018
+# Level 029
 
 #  -------------------------------
 #  -- SIMULADOR DE FICHA MÉDICA --
@@ -12,6 +12,8 @@ documento = int(input("Documento do paciente, por favor responda apenas com núm
 idade = int(input("Idade do paciente: "))
 cidade = input("Cidade em que o paciente reside: ")
 sexo = input("Responda F para feminino e M para masculino: ")
+tipo_sanguineo = input("Informe seu tipo sanguíneo: ")
+alergias = input("Informe se você possui alergia a algum medicamento:")
 rua = input("A residência do paciente fica na rua: ")
 num_casa = int(input("Número da residência: "))
 bairro = input("Bairro onde o paciente mora: ")
@@ -23,7 +25,9 @@ queixas = input("Quais são as queixas do paciente? Insira aqui: ")
 print("-------------------------------------------------------------------------------------------------------------------------------------------------------")
 print("----------------------------------------------------------FICHA MÉDICA---------------------------------------------------------------------------------")
 print("-------------------------------------------------------------------------------------------------------------------------------------------------------")
-print(f"NOME COMPLETO DO PACIENTE: {nome_completo}") 
+print(f"NOME COMPLETO DO PACIENTE: {nome_completo}                                                                                                   {tipo_sanguineo}")               
+print("-------------------------------------------------------------------------------------------------------------------------------------------------------")
+print(f"ALERGIAS: {alergias}")
 print("-------------------------------------------------------------------------------------------------------------------------------------------------------")
 print(f"DOCUMENTO (CPF OU CARTÃO DO SUS): {tipo_doc}, número: {documento}")
 print("-------------------------------------------------------------------------------------------------------------------------------------------------------")
