@@ -26,7 +26,6 @@ elif random.choice(task0) == "deu spawn":
 elif random.choice(task0) == "seguiu de moto":
     print("E ainda recebeu multa por excesso de velocidade")
 
-
 piso0 = ["ir pelas escadas", "esperar pelo elevador", "fazer parkour", "permitir que um estranho te levasse nas costas", "se esconder em um carrinho de bebê", "subir uma rampa"]
 print(f"Você foi até o térreo e para isso decidiu {random.choice(piso0)}")
 if random.choice(piso0) == "ir pelas escadas":
