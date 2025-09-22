@@ -1,7 +1,7 @@
 # Level 078
-# -------------------------
-# -- CATÁLOGO BIBLIOTECA --
-# -------------------------
+# --------------------------------------
+# -- CATÁLOGO BIBLIOTECA COM PESQUISA --
+# --------------------------------------
 
 class Livro: 
     def __init__(self, titulo, autor, genero, ano, ISBN):
