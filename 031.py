@@ -1,7 +1,7 @@
  #Level 031
 
 #  ---------------------------------
-#  -- Questionário ovo ou galinha --
+#  -- QUESTIONÁRIO OVO OU GALINHA --
 #  ---------------------------------
 
 print("Quem veio primeiro: o ovo ou a galinha?")
