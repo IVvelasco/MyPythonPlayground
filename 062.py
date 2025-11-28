@@ -16,9 +16,9 @@ class funcionario:
         self.cpf = cpf 
         self.idade = idade
 
-        if idade >= '60':
+        if idade >= '62':
             print(f"O funcionário {nome} está para aposentar-se")
         
 if __name__ == "__main__":
-    pessoa0 = funcionario("João", "da Silva","M","000.000.000-00", '60')
+    pessoa0 = funcionario("João", "da Silva","M","000.000.000-00", '62')
     pessoa1 = funcionario("Roberto", "Costa", "M", "000.000.000-00", '64')
